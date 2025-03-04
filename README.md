@@ -1,6 +1,6 @@
-# Frontend template UI
+# Future UI
 
-This is a React-based web application built with [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and styled using [Tailwind CSS](https://tailwindcss.com/).
+This is a futuristic React-based web application built with [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and styled using [Tailwind CSS](https://tailwindcss.com/).
 
 ## 🚀 Getting Started
 
@@ -14,8 +14,8 @@ Ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/aritroCoder/ui-template.git
-cd ui-template
+git clone https://github.com/aritroCoder/future-ui
+cd future-ui
 pnpm install  # or use npm install / yarn install
 ```
 
